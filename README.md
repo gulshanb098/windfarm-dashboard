@@ -60,7 +60,10 @@ windfarm-dashboard/
 
 ## Installation & Running the Application
 
-1. Unzip the codebase.
+1. Clone the repository.
+    ```bash
+    git clone <repo_url>
+    ```
 2. Ensure you have Node installed.
 3. Install pnpm
     ```bash
@@ -82,3 +85,5 @@ windfarm-dashboard/
 * React
 * Highcharts
 * ag-Grid
+
+![Windfarm Dashboard](public/app.png)
